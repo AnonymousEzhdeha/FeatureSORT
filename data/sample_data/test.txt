@@ -1,0 +1,3 @@
+data/test1.png data/label/test1.txt
+...
+[add the rest]

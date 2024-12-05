@@ -1,0 +1,6 @@
+# DET_SOURCE_DIR: '/media/ezhdeha/B2CA8AACCA8A6C83/Pintel_Projects/DeepLearning/AIC21-MTMC/datasets/detection/images/test/S06/'
+REID_MODEL: './reid/reid_model/resnet101_ibn_a_2.pth'
+REID_BACKBONE: 'resnet101_ibn_a'
+# DET_IMG_DIR: '/media/ezhdeha/B2CA8AACCA8A6C83/Pintel_Projects/DeepLearning/AIC21-MTMC/datasets/detect_merge/'
+# DATA_DIR: '/media/ezhdeha/B2CA8AACCA8A6C83/Pintel_Projects/DeepLearning/AIC21-MTMC/datasets/detect_reid1/'
+REID_SIZE_TEST: [384, 384]

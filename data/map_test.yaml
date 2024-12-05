@@ -1,0 +1,14 @@
+
+
+
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: data/sample_data/train.txt
+val: data/sample_data/test.txt
+
+# number of classes
+nc: 8
+
+# class names
+names: ['person', 'bus_small', 'bus_big', 'truck_small', 'truck_big', 'car', 'bike', 'motorbike']
