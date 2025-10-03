@@ -2,6 +2,7 @@
 from collections import namedtuple
 from typing import List, Union
 import numpy as np 
+import os
 
 Box = namedtuple('Box', 'xmin ymin xmax ymax')
 
